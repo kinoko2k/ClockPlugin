@@ -1,0 +1,5 @@
+name: ClockPlugin
+version: '1.0.0'
+main: net.kinoko2k.clockplugin.ClockPlugin
+api-version: '1.21'
+authors: [ Kinoko_2K ]
